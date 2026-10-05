@@ -13,6 +13,6 @@ namespace R5T.Z0033
         /// <summary>
         /// <see href="https://www.stevejgordon.co.uk/aspnet-core-dependency-injection-what-is-the-iserviceprovider-and-how-is-it-built"/>
         /// </summary>
-        public Link WhatIsIServiceProvider => "https://www.stevejgordon.co.uk/aspnet-core-dependency-injection-what-is-the-iserviceprovider-and-how-is-it-built".ToLink();
+        Link WhatIsIServiceProvider => "https://www.stevejgordon.co.uk/aspnet-core-dependency-injection-what-is-the-iserviceprovider-and-how-is-it-built".ToLink();
     }
 }
